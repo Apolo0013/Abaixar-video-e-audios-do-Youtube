@@ -1,0 +1,46 @@
+Manuseio de Exceções:
+
+Adicione tratamento de exceções mais específico para diferentes tipos de erros (conexão à internet, URL inválida, etc.).
+Suporte a Várias URLs:
+
+Permita que os usuários baixem vídeos e áudios de várias URLs em uma única execução, utilizando uma lista de URLs.
+Threading/Multiprocessing:
+
+Implemente threading ou multiprocessing para permitir o download simultâneo de múltiplos vídeos ou áudios, melhorando a eficiência.
+Verificação de Espaço em Disco:
+
+Adicione uma verificação para garantir que há espaço suficiente no disco antes de iniciar o download.
+Limpeza de Arquivos Temporários:
+
+Adicione uma funcionalidade para limpar automaticamente arquivos temporários após o download.
+Melhorias na Interface do Usuário (se usar GUI futuramente)
+Barra de Progresso:
+
+Adicione uma barra de progresso para mostrar o status do download em tempo real.
+Mensagens de Erro e Sucesso:
+
+Forneça mensagens claras e informativas sobre o status do download, incluindo erros específicos.
+Configurações do Usuário:
+
+Permita que os usuários salvem suas configurações preferidas (pasta de download, formato, qualidade) para uso futuro.
+Histórico de Downloads:
+
+Mantenha um histórico dos downloads concluídos com detalhes como nome do arquivo, URL, data e hora.
+Melhorias de Funcionalidade
+Opções de Conversão:
+
+Adicione opções para converter arquivos baixados para diferentes formatos ou resoluções após o download.
+Integração com Outras Plataformas:
+
+Considere integrar com outras plataformas de vídeo e música, permitindo downloads de múltiplas fontes.
+Automatização de Tarefas:
+
+Implemente funcionalidades de agendamento para downloads automáticos em horários específicos.
+Melhoria de Código
+Documentação:
+
+Adicione comentários detalhados e documentação para explicar o funcionamento do código, facilitando a manutenção futura.
+Modularização:
+
+Divida o código em módulos menores e reutilizáveis para melhorar a legibilidade e a manutenção.
+Testes Automatizados:
